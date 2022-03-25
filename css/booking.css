@@ -11,3 +11,7 @@ body{
 .button {
     border-radius: 20px;
 }
+
+.disp-booking {
+    display: none;
+}
