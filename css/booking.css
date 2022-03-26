@@ -7,7 +7,12 @@ body{
     color: #fff;
     text-align: center;
 }
-
+.card {
+    box-shadow: 0 10px 20px rgba(221, 224, 11, 0.19);
+}
+.card:hover{
+    transform: scale(1.2);
+}
 .button {
     border-radius: 20px;
 }
